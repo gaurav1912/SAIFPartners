@@ -1,33 +1,3 @@
-/*
-Template: Markethon - Digital Marketing Agency Responsive HTML5 Template
-Author: iqonicthemes.in
-Design and Developed by: iqonicthemes.in
-NOTE: This file contains the styling for responsive Template.
-*/
-
-/*----------------------------------------------
-Index Of Script
-------------------------------------------------
-
-1.Page Loader
-2.Isotope
-3.Masonry
-4.Progress Bar
-5.Pie chart
-6.Mega Menu
-7.Back To Top
-8.Counter
-9.Accordion
-10.Magnific Popup
-11.Wow Animation
-12.Owl Carousel
-1.Countdown
-14.Circle Progressbar
-15.Side Menu
-
-------------------------------------------------
-Index Of Script
-----------------------------------------------*/
 
 
 "use strict";
